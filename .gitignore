@@ -4,6 +4,7 @@ vsts-runner-config.json
 
 # Editors
 .vscode/
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
